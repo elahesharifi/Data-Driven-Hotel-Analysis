@@ -39,6 +39,6 @@ Below are some snapshots of the report, showing various visualizations.
 
 ![Review and Reviewer Analysis](https://github.com/elahesharifi/TechionistaHolidaysAnalysis/blob/main/3.jpg)
 
-![our photo ](https://github.com/elahesharifi/Data-Driven-Hotel-Analysis/blob/main/b8b98751-216a-4438-b43d-cbc95102b943.jpg)
+
 
 
