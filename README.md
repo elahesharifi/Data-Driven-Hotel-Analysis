@@ -40,7 +40,5 @@ Below are some snapshots of the report, showing various visualizations.
 
 
 ## Contributers 
-<a href="https://github.com/elahesharifi/Data-Driven-Hotel-Analysis/graphs/contributors">
-<img src="https://opencollective.com/Data-Driven-Hotel-Analysis/contributors.svg?width=890&button=false">
-</a>
 
+[![Code Contributors](https://opencollective.com/Data-Driven-Hotel-Analysis/contributors.svg?width=890&button=false)](https://github.com/elahesharifi/Data-Driven-Hotel-Analysis/graphs/contributors) 
