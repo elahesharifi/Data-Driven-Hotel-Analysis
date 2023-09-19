@@ -2,7 +2,6 @@
 
 ## Overview
 
-BUSINESS CASE
 This repository contains a detailed analysis of hotel reviews from Techionista Holidays, dated from 2015 to 2017, focusing on various aspects such as nationalities, traveler types, and hotel locations. This project is dedicated to analyzing 515,000 records related to holiday trends.
 
 ![Overview](https://github.com/elahesharifi/TechionistaHolidaysAnalysis/blob/main/1.jpg)
